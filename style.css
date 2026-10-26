@@ -121,13 +121,7 @@ footer p {
         max-height: 350px;
     }
 }
-/* Center the third Balance Sheet image */
-#balance-sheet .project-gallery img:last-child {
-    grid-column: 1 / -1;
-    justify-self: Center;
-    width: 35%;
-	height: 200px;
-}
+
 /* Improve Cash Flow image layout */
 #cash-flow .project-gallery {
     gap: 10px;
